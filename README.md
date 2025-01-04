@@ -15,12 +15,6 @@
 <p>JS</p>
     <pre>&lt;script src="https://unpkg.com/aos@2.3.1/dist/aos.js"&gt; &lt;/script&gt;</pre>
 
-<!-- For React -->
-### Install using Yarn, Npm, Bower
-<pre>yarn add aos</pre>
-<pre>npm install aos --save</pre>
-<pre>bower install aos --save</pre>
-
 <!-- AOS in HTML -->
 ### AOS in HTML
 
@@ -53,6 +47,12 @@
 &lt;/body&gt;
 &lt;/html&gt;
 </pre>
+
+<!-- For React -->
+### Install using Yarn, Npm, Bower
+<pre>yarn add aos</pre>
+<pre>npm install aos --save</pre>
+<pre>bower install aos --save</pre>
 
 <!-- AOS in React -->
 ### AOS in React
